@@ -1,6 +1,6 @@
-## Athena Project
+## Clean Project
 
-An internal financial services tracking application created and owned by Point72. All code contained in this directory is proprietary and confidential.
+A clean project
 
 
 ### Getting Started
